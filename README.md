@@ -6,7 +6,7 @@ An AI-powered waste classifier that uses transfer learning (VGG-16) to categoriz
 - 🌿 Biodegradable
 - 🗑️ Trash
 - 🎥 [Watch the demo on Google Drive](https://drive.google.com/file/d/1kYdxJ16HxezqcPAgq2CRMqVlRp60x4b4/view?usp=drive_link)
-
+(https://drive.google.com/file/d/1kYdxJ16HxezqcPAgq2CRMqVlRp60x4b4/view?usp=drive_link)
 
 ## 🚀 Features
 
